@@ -7,6 +7,7 @@
 - [Text Processing: Regular Expression and stringr package](https://github.com/romabash/R-notebooks-collection/tree/master/Text-Processing)
 - [Visualization with ggplot2](https://github.com/romabash/R-notebooks-collection/tree/master/Visualization)
 - [Statistics](https://github.com/romabash/R-notebooks-collection/tree/master/Statistics)
+- [Data Sciece](https://github.com/romabash/R-notebooks-collection/tree/master/Data-Science)
 - [Machine Learning](https://github.com/romabash/R-notebooks-collection/tree/master/Machine-Learning)
 
 
