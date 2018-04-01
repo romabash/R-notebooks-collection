@@ -1,0 +1,32 @@
+---
+title: "R Markdown Basics"
+author: "RB"
+date: "April 1, 2018"
+output: html_document
+---
+
+### Using built-in *iris* dataset
+
+```{r}
+head(iris)
+```
+
+
+### Look at the summary of dataset
+
+```{r}
+summary(iris)
+```
+
+
+
+### Plot *iris* data using *ggplot2*
+- Plotting Petal Length vs Petal Width, using Species for color
+
+```{r}
+library(ggplot2)
+
+ggplot(data = iris) + 
+geom_point(aes(x = Petal.Length, y = Petal.Width, color = Species))
+```
+
