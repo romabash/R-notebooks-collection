@@ -2,7 +2,7 @@
 title: "R Markdown Basics"
 author: "RB"
 date: "April 1, 2018"
-output: html_document
+output: github_document
 ---
 
 ### Using built-in *iris* dataset
